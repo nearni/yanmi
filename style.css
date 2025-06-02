@@ -1,8 +1,16 @@
-body {
+/*body {
   font-family: sans-serif;
   margin: 0;
   padding: 0;
   background: #fdfdfd;
+}*/
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: url('images/bg-pets.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #333;
 }
 
 header, footer {
